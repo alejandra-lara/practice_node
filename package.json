@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/alejandra-lara/practice_node#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "typeorm": "^0.2.31"
   }
 }

@@ -19,6 +19,8 @@
   "homepage": "https://github.com/alejandra-lara/practice_node#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mysql": "^2.18.1",
     "typeorm": "^0.2.31"
   }
 }
